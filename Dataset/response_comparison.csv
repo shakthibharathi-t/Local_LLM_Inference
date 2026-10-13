@@ -1,16 +1,16 @@
 prompt_id,domain,model,response_length_chars,response_word_count,complexity_level,accuracy_score_est
-1,Education,llama3.2,3281,446,Standard,High
-2,Healthcare,llama3.2,3092,450,Standard,High
-3,Coding,llama3.2,215,32,Standard,High
-4,Travel,llama3.2,2126,391,Standard,High
-5,Business,llama3.2,3059,422,Standard,High
-6,Technology,llama3.2,2491,343,Standard,High
-7,Environment,llama3.2,1880,272,Standard,High
-8,Finance,llama3.2,2567,392,Standard,High
-9,Communication,llama3.2,2777,400,Standard,High
-10,General Knowledge,llama3.2,2508,382,Standard,High
-11,Artificial Intelligence,llama3.2,3289,503,Standard,High
-12,Cybersecurity,llama3.2,2025,300,Standard,High
-13,Marketing,llama3.2,2977,403,Standard,High
-14,Psychology,llama3.2,2511,338,Standard,High
-15,Data Science,llama3.2,2653,392,Standard,High
+1,Education,llama3.2,3282,485,Standard,High
+2,Healthcare,llama3.2,2880,431,Standard,High
+3,Coding,llama3.2,633,94,Standard,High
+4,Travel,llama3.2,2514,428,Standard,High
+5,Business,llama3.2,2930,392,Standard,High
+6,Technology,llama3.2,3100,430,Standard,High
+7,Environment,llama3.2,1355,197,Standard,High
+8,Finance,llama3.2,2368,364,Standard,High
+9,Communication,llama3.2,2231,338,Standard,High
+10,General Knowledge,llama3.2,1705,287,Standard,High
+11,Artificial Intelligence,llama3.2,2978,454,Standard,High
+12,Cybersecurity,llama3.2,2003,305,Standard,High
+13,Marketing,llama3.2,2516,366,Standard,High
+14,Psychology,llama3.2,2461,332,Standard,High
+15,Data Science,llama3.2,2653,382,Standard,High
